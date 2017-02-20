@@ -5,8 +5,10 @@ h1 {
 
 .title {
   text-align:center;
+  background-color:darkblue;
 }
 
 nav {
   text-align:center;
+  background-color:blue;
 }
