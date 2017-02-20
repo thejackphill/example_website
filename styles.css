@@ -6,6 +6,8 @@ h1 {
 .title {
   text-align:center;
   background-color:darkblue;
+  color:white;
+  margin:0px;
 }
 
 nav {
