@@ -1,4 +1,12 @@
 h1 {
-  font-size:14em;
-  font-family:Roboto;
+  font-size:3em;
+  font-family:Roboto Mono;
+}
+
+.title {
+  text-align:center;
+}
+
+nav {
+  text-align:center;
 }
